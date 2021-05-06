@@ -57,5 +57,12 @@ box-shadow: 0px 25px 42px 59px rgba(13, 248, 236, 0.64);
     margin: 25px;
 }
 .tablichki{
+    flex-wrap: wrap;
     display: flex;
+    justify-content: center;
+}
+.znaki{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }
